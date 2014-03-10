@@ -1,0 +1,17 @@
+.icon-checkbox,
+.icon-checkbox.checkbox-clear,
+.icon-checkbox.checkbox-checked {
+    width:17px;
+    height:17px;
+    background-position:0px -50px;
+}
+.icon-checkbox.checkbox-checked { background-position:-17px -50px; }
+
+.icon-checkmark{
+    display:inline-block;
+    height:23px;
+    width:23px;
+    margin:0 5px;
+    background:url(check-mark.png) 0px 0px no-repeat;
+    vertical-align:middle;
+}
